@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.WebAssembly", "BethanysPieShopHRM.WebAssembly\BethanysPieShopHRM.WebAssembly.csproj", "{B685C7C2-2957-44E8-BA9B-7C053849A6B9}"
+EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.App", "BethanysPieShopHRM.App\BethanysPieShopHRM.App.csproj", "{A76AFFBA-09A2-48BA-A2D6-B7B81936EF3A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.Shared", "BethanysPieShopHRM.Shared\BethanysPieShopHRM.Shared.csproj", "{7B43C82D-18D3-488D-8935-2F2950886FBD}"
@@ -10,8 +12,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.Api", "BethanysPieShopHRM.Api\BethanysPieShopHRM.Api.csproj", "{448D0EDE-2872-4D05-8C08-8FFF4CACD5AB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.ComponentsLibrary", "BethanysPieShopHRM.ComponentsLibrary\BethanysPieShopHRM.ComponentsLibrary.csproj", "{9504AAED-6D95-42E8-9D09-6796AC7FA6D0}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.WebAssembly", "BethanysPieShopHRM.WebAssembly\BethanysPieShopHRM.WebAssembly.csproj", "{B685C7C2-2957-44E8-BA9B-7C053849A6B9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.App.Tests", "BethanysPieShopHRM.App.Tests\BethanysPieShopHRM.App.Tests.csproj", "{F1356837-DC84-44EE-9AA8-1EACBBFF61FC}"
 EndProject
